@@ -1,0 +1,15 @@
+F:\Geekbrains\Programming\Homework\Task 59\bin\Debug\net6.0\Task 59.exe
+F:\Geekbrains\Programming\Homework\Task 59\bin\Debug\net6.0\Task 59.deps.json
+F:\Geekbrains\Programming\Homework\Task 59\bin\Debug\net6.0\Task 59.runtimeconfig.json
+F:\Geekbrains\Programming\Homework\Task 59\bin\Debug\net6.0\Task 59.dll
+F:\Geekbrains\Programming\Homework\Task 59\bin\Debug\net6.0\Task 59.pdb
+F:\Geekbrains\Programming\Homework\Task 59\obj\Debug\net6.0\Task 59.csproj.AssemblyReference.cache
+F:\Geekbrains\Programming\Homework\Task 59\obj\Debug\net6.0\Task 59.GeneratedMSBuildEditorConfig.editorconfig
+F:\Geekbrains\Programming\Homework\Task 59\obj\Debug\net6.0\Task 59.AssemblyInfoInputs.cache
+F:\Geekbrains\Programming\Homework\Task 59\obj\Debug\net6.0\Task 59.AssemblyInfo.cs
+F:\Geekbrains\Programming\Homework\Task 59\obj\Debug\net6.0\Task 59.csproj.CoreCompileInputs.cache
+F:\Geekbrains\Programming\Homework\Task 59\obj\Debug\net6.0\Task 59.dll
+F:\Geekbrains\Programming\Homework\Task 59\obj\Debug\net6.0\refint\Task 59.dll
+F:\Geekbrains\Programming\Homework\Task 59\obj\Debug\net6.0\Task 59.pdb
+F:\Geekbrains\Programming\Homework\Task 59\obj\Debug\net6.0\Task 59.genruntimeconfig.cache
+F:\Geekbrains\Programming\Homework\Task 59\obj\Debug\net6.0\ref\Task 59.dll
